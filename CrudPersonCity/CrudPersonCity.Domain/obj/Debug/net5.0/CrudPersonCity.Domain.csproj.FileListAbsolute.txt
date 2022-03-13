@@ -1,0 +1,24 @@
+C:\Projetos\CrudPersonCity\CrudPersonCity.Domain\bin\Debug\net5.0\CrudPersonCity.Domain.deps.json
+C:\Projetos\CrudPersonCity\CrudPersonCity.Domain\bin\Debug\net5.0\CrudPersonCity.Domain.dll
+C:\Projetos\CrudPersonCity\CrudPersonCity.Domain\bin\Debug\net5.0\CrudPersonCity.Domain.pdb
+C:\Projetos\CrudPersonCity\CrudPersonCity.Domain\obj\Debug\net5.0\CrudPersonCity.Domain.csproj.AssemblyReference.cache
+C:\Projetos\CrudPersonCity\CrudPersonCity.Domain\obj\Debug\net5.0\CrudPersonCity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CrudPersonCity\CrudPersonCity.Domain\obj\Debug\net5.0\CrudPersonCity.Domain.AssemblyInfoInputs.cache
+C:\Projetos\CrudPersonCity\CrudPersonCity.Domain\obj\Debug\net5.0\CrudPersonCity.Domain.AssemblyInfo.cs
+C:\Projetos\CrudPersonCity\CrudPersonCity.Domain\obj\Debug\net5.0\CrudPersonCity.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\CrudPersonCity\CrudPersonCity.Domain\obj\Debug\net5.0\CrudPersonCity.Domain.dll
+C:\Projetos\CrudPersonCity\CrudPersonCity.Domain\obj\Debug\net5.0\refint\CrudPersonCity.Domain.dll
+C:\Projetos\CrudPersonCity\CrudPersonCity.Domain\obj\Debug\net5.0\CrudPersonCity.Domain.pdb
+C:\Projetos\CrudPersonCity\CrudPersonCity.Domain\obj\Debug\net5.0\ref\CrudPersonCity.Domain.dll
+C:\Projetos\Meus Projetos\CrudPersonCity - GitHub\portfolio-api-crudpersoncity\CrudPersonCity\CrudPersonCity.Domain\bin\Debug\net5.0\CrudPersonCity.Domain.deps.json
+C:\Projetos\Meus Projetos\CrudPersonCity - GitHub\portfolio-api-crudpersoncity\CrudPersonCity\CrudPersonCity.Domain\bin\Debug\net5.0\CrudPersonCity.Domain.dll
+C:\Projetos\Meus Projetos\CrudPersonCity - GitHub\portfolio-api-crudpersoncity\CrudPersonCity\CrudPersonCity.Domain\bin\Debug\net5.0\CrudPersonCity.Domain.pdb
+C:\Projetos\Meus Projetos\CrudPersonCity - GitHub\portfolio-api-crudpersoncity\CrudPersonCity\CrudPersonCity.Domain\obj\Debug\net5.0\CrudPersonCity.Domain.csproj.AssemblyReference.cache
+C:\Projetos\Meus Projetos\CrudPersonCity - GitHub\portfolio-api-crudpersoncity\CrudPersonCity\CrudPersonCity.Domain\obj\Debug\net5.0\CrudPersonCity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Meus Projetos\CrudPersonCity - GitHub\portfolio-api-crudpersoncity\CrudPersonCity\CrudPersonCity.Domain\obj\Debug\net5.0\CrudPersonCity.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Meus Projetos\CrudPersonCity - GitHub\portfolio-api-crudpersoncity\CrudPersonCity\CrudPersonCity.Domain\obj\Debug\net5.0\CrudPersonCity.Domain.AssemblyInfo.cs
+C:\Projetos\Meus Projetos\CrudPersonCity - GitHub\portfolio-api-crudpersoncity\CrudPersonCity\CrudPersonCity.Domain\obj\Debug\net5.0\CrudPersonCity.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Meus Projetos\CrudPersonCity - GitHub\portfolio-api-crudpersoncity\CrudPersonCity\CrudPersonCity.Domain\obj\Debug\net5.0\CrudPersonCity.Domain.dll
+C:\Projetos\Meus Projetos\CrudPersonCity - GitHub\portfolio-api-crudpersoncity\CrudPersonCity\CrudPersonCity.Domain\obj\Debug\net5.0\refint\CrudPersonCity.Domain.dll
+C:\Projetos\Meus Projetos\CrudPersonCity - GitHub\portfolio-api-crudpersoncity\CrudPersonCity\CrudPersonCity.Domain\obj\Debug\net5.0\CrudPersonCity.Domain.pdb
+C:\Projetos\Meus Projetos\CrudPersonCity - GitHub\portfolio-api-crudpersoncity\CrudPersonCity\CrudPersonCity.Domain\obj\Debug\net5.0\ref\CrudPersonCity.Domain.dll
