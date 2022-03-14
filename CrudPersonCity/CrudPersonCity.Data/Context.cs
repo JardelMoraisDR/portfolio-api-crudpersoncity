@@ -11,6 +11,7 @@ namespace CrudPersonCity.Data
 
         public Context(DbContextOptions<Context> contextOptions) : base(contextOptions)
         {
+            Database.EnsureCreated();
         }
 
     }
