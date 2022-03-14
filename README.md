@@ -54,7 +54,7 @@ Após rodar o comando, acesse o link abaixo em seu navegador:
 
 Após isso será apresentado a aplicação:
 
-![Logo](https://i.ibb.co/s59ZfZG/video3-API-13032022.gif)
+![Logo](https://i.ibb.co/RvC9tqn/video3-API-13032022-03.gif)
 
 ![Logo](https://i.ibb.co/DzJDvd8/video3-API-13032022-02.gif)
 
